@@ -44,3 +44,4 @@
  * [YAPC2019備忘録 - Lambdaカクテル](https://blog.3qe.us/entry/2019/01/27/010222)
  * [YAPC::Tokyo 2019 で発表してきました - This is my life.](http://blog.duck8823.com/entry/2019/01/26/210829)
  * [YAPC::Tokyo 2019で"Perl on Rails"という面白いセッションについてと所感 - ほつた@はてな](https://hotuta.hatenablog.com/entry/2019/01/26/185824)
+ * [ブログを書くまでがYAPC::Tokyoです。 - 1338文字のお喋り](https://kotomi1338.hatenablog.com/entry/2019/01/29/235640)
