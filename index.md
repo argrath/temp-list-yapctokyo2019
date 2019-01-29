@@ -4,11 +4,11 @@
 
 ## 記事
 
-[YAPC::Tokyo2019で感じたこと - Acme::AnaTofuZ->new;https://anatofuz.hatenablog.com/entry/2019/01/27/204802](https://anatofuz.hatenablog.com/entry/2019/01/27/204802)
+[YAPC::Tokyo2019で感じたこと - Acme::AnaTofuZ->new](https://anatofuz.hatenablog.com/entry/2019/01/27/204802)
 
-[YAPC::Tokyo2019参加記録及び技術への精錬を通して感じたこと ...https://dev.classmethod.jp/event/yapc-tokyo-2019/](https://dev.classmethod.jp/event/yapc-tokyo-2019/)
+[YAPC::Tokyo2019参加記録及び技術への精錬を通して感じたこと](https://dev.classmethod.jp/event/yapc-tokyo-2019/)
 
-[YAPC::Tokyo 2019 のランチセッションで登壇した – Raryosu – Mediumhttps://medium.com/.../yapc-tokyo-2019-のランチセッションで登壇した-8ea46958c32f](https://medium.com/@raryosu/yapc-tokyo-2019-%E3%81%AE%E3%83%A9%E3%83%B3%E3%83%81%E3%82%BB%E3%83%83%E3%82%B7%E3%83%A7%E3%83%B3%E3%81%A7%E7%99%BB%E5%A3%87%E3%81%97%E3%81%9F-8ea46958c32f)
+[YAPC::Tokyo 2019 のランチセッションで登壇した – Raryosu – Medium](https://medium.com/@raryosu/yapc-tokyo-2019-%E3%81%AE%E3%83%A9%E3%83%B3%E3%83%81%E3%82%BB%E3%83%83%E3%82%B7%E3%83%A7%E3%83%B3%E3%81%A7%E7%99%BB%E5%A3%87%E3%81%97%E3%81%9F-8ea46958c32f)
 
 [リブート後初の東京開催！YAPC::Tokyo 2019に参加してきた～コミュニティの価値 \| 馮富久のブログ - Tomihisa Fuon's Blog](https://ameblo.jp/tomihisa18/entry-12435872121.html)
 
