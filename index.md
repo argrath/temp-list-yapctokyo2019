@@ -10,7 +10,7 @@
 
 [YAPC::Tokyo 2019 のランチセッションで登壇した – Raryosu – Mediumhttps://medium.com/.../yapc-tokyo-2019-のランチセッションで登壇した-8ea46958c32f](https://medium.com/@raryosu/yapc-tokyo-2019-%E3%81%AE%E3%83%A9%E3%83%B3%E3%83%81%E3%82%BB%E3%83%83%E3%82%B7%E3%83%A7%E3%83%B3%E3%81%A7%E7%99%BB%E5%A3%87%E3%81%97%E3%81%9F-8ea46958c32f)
 
-[リブート後初の東京開催！YAPC::Tokyo 2019に参加してきた～コミュニティの価値 | 馮富久のブログ - Tomihisa Fuon's Blog](https://ameblo.jp/tomihisa18/entry-12435872121.html)
+[リブート後初の東京開催！YAPC::Tokyo 2019に参加してきた～コミュニティの価値 \| 馮富久のブログ - Tomihisa Fuon's Blog](https://ameblo.jp/tomihisa18/entry-12435872121.html)
 
 [YAPC 2位でした - hitode909の日記](https://blog.sushi.money/entry/2019/01/27/235900)
 
@@ -22,7 +22,7 @@
 
 [プログラマ大航海時代、YAPC::Tokyo 2019に行って希望をもらってきた - Lambdaカクテル](https://blog.3qe.us/entry/2019/01/27/175027)
 
-[エンジニア重田の YAPC::Tokyo 2019 参加レポート #yapcjapan [ほぼ週刊SA] - 広報ブログ | シックス・アパート - CMSソフトウェア、サービスを提供](https://www.sixapart.jp/pressroom/2019/01/hwsa_20190128.html)
+[エンジニア重田の YAPC::Tokyo 2019 参加レポート #yapcjapan [ほぼ週刊SA] - 広報ブログ \| シックス・アパート - CMSソフトウェア、サービスを提供](https://www.sixapart.jp/pressroom/2019/01/hwsa_20190128.html)
 
 [YAPC::tokyo 2019で登壇しました – Wyton](https://ytnobody.net/2019/01/27/yapctokyo-2019%e3%81%a7%e7%99%bb%e5%a3%87%e3%81%97%e3%81%be%e3%81%97%e3%81%9f/)
 
