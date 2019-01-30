@@ -57,3 +57,6 @@
  * [YAPC::Tokyo 2019でコアスタッフとして、前夜祭LTソンと、本編オープニングをやってきた - Magnolia Tech](https://blog.magnolia.tech/entry/2019/01/27/155931)
  * [YAPC::Japan Tokyo 2019でメッセージングプロトコルについての発表をしてきました。 – lyokato – Medium](https://medium.com/@lyokato/yapc-japan-tokyo-2019%E3%81%A7%E3%83%A1%E3%83%83%E3%82%BB%E3%83%BC%E3%82%B8%E3%83%B3%E3%82%B0%E3%83%97%E3%83%AD%E3%83%88%E3%82%B3%E3%83%AB%E3%81%AB%E3%81%A4%E3%81%84%E3%81%A6%E3%81%AE%E7%99%BA%E8%A1%A8%E3%82%92%E3%81%97%E3%81%A6%E3%81%8D%E3%81%BE%E3%81%97%E3%81%9F-e5312fa3366a)
  * [■ - パピッター](https://papix.hatenadiary.jp/entry/2019/01/27/135629)
+ * [YAPC::Tokyo 2019 に行ってきた - 純ブログ](https://nahcnuj.hatenablog.jp/entry/2019/01/30/090000)
+ * [YAPC::Tokyo 2019に参加した - skaji’s blog](https://skaji.hateblo.jp/entry/2019/01/30/083921)
+ * [いってきましたYAPC::Tokyo 2019 - 戦闘力那由多を目指して](https://nayuta-1999.hatenablog.com/entry/2019/01/30/145145)
