@@ -66,3 +66,4 @@
  * [YAPC::Tokyo 2019の国 - ﾘｬﾏの旅-the Beautiful Code-](https://ryumaryama.hatenablog.com/entry/2019/02/01/004342)
  * [YAPC::Tokyo 2019に参加してきた \| いろいろメモする](https://blog.kobasato.net/entry/yapctokyo-2019/)
  * [參加了 YAPC::Tokyo 2019](https://gugod.org/2019/02/yapc-tokyo/)
+ * [YAPC::Tokyo2019に初参加したら新しい世界が開けた - 桐生あんずです](https://kiryuanzu.hatenablog.com/entry/2019/02/01/030819)
