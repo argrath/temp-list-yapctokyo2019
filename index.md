@@ -63,3 +63,4 @@
  * [YAPC::Tokyo 2019 参加レポート - おてんとうさんのやみなべ日記](https://o1010-sunsun.hatenablog.com/entry/2019/01/30/213051)
  * [YAPC::Tokyo 2019 協賛・登壇レポート - LINE ENGINEERING](https://engineering.linecorp.com/ja/blog/yapctokyo-2019-report/)
  * [YAPC::Tokyo 2019 に参加して LT をしてきました #yapcjapan \| #interest_ae](http://post.tetsuji.jp/2019/01/yapctokyo-2019-lt/)
+ * [YAPC::Tokyo 2019の国 - ﾘｬﾏの旅-the Beautiful Code-](https://ryumaryama.hatenablog.com/entry/2019/02/01/004342)
