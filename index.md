@@ -61,3 +61,4 @@
  * [YAPC::Tokyo 2019に参加した - skaji’s blog](https://skaji.hateblo.jp/entry/2019/01/30/083921)
  * [いってきましたYAPC::Tokyo 2019 - 戦闘力那由多を目指して](https://nayuta-1999.hatenablog.com/entry/2019/01/30/145145)
  * [YAPC::Tokyo 2019 参加レポート - おてんとうさんのやみなべ日記](https://o1010-sunsun.hatenablog.com/entry/2019/01/30/213051)
+ * [YAPC::Tokyo 2019 協賛・登壇レポート - LINE ENGINEERING](https://engineering.linecorp.com/ja/blog/yapctokyo-2019-report/)
