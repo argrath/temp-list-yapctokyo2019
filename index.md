@@ -68,7 +68,7 @@
  * [參加了 YAPC::Tokyo 2019](https://gugod.org/2019/02/yapc-tokyo/)
  * [YAPC::Tokyo2019に初参加したら新しい世界が開けた - 桐生あんずです](https://kiryuanzu.hatenablog.com/entry/2019/02/01/030819)
  * [YAPC::Tokyo2019の協賛をしました - Tech Inside Drecom](https://tech.drecom.co.jp/yapc-tokyo-2019/)
- * [YAPC::Tokyo 2019 にスピーカーとして参加しました - "><script>Function('a\x6ce'+'rt'+'('+'"hateblo"'+')')()</script>ブログ](https://xaicron.hatenablog.com/entry/2019/01/30/223553)
+ * [YAPC::Tokyo 2019 にスピーカーとして参加しました - "> script>Function('a\x6ce'+'rt'+'('+'"hateblo"'+')')()</script>ブログ](https://xaicron.hatenablog.com/entry/2019/01/30/223553)
  * [YAPC::Tokyoの感想 - qrunch.net](https://morichan.qrunch.io/entries/JG2FTJ8VRE6amV3T)
  * [YAPC::Tokyo 2019 に参加して，OSSとコミュニティについて見つめ直した - Re:cohalz](https://core.cohalz.co/entry/2019/02/01/222055)
  * [YAPC::TOKYO2019に行ってきました - たるなまキャット](http://kebus.hatenablog.com/entry/2019/02/01/234031)
