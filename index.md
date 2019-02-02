@@ -73,3 +73,4 @@
  * [YAPC::Tokyo 2019 に参加して，OSSとコミュニティについて見つめ直した - Re:cohalz](https://core.cohalz.co/entry/2019/02/01/222055)
  * [YAPC::TOKYO2019に行ってきました - たるなまキャット](http://kebus.hatenablog.com/entry/2019/02/01/234031)
  * [非Perl MongerのYAPC::Tokyo 2019参加記 - sidebook37’s blog](http://sidebook37.hatenablog.com/entry/2019/02/01/170801)
+ * [YAPC::Tokyo に参加しました！ - zeronosu77108’s blog](http://zeronosu77108.hatenablog.com/entry/2019/02/02/163724)
