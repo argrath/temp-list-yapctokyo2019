@@ -74,3 +74,5 @@
  * [YAPC::TOKYO2019に行ってきました - たるなまキャット](http://kebus.hatenablog.com/entry/2019/02/01/234031)
  * [非Perl MongerのYAPC::Tokyo 2019参加記 - sidebook37’s blog](http://sidebook37.hatenablog.com/entry/2019/02/01/170801)
  * [YAPC::Tokyo に参加しました！ - zeronosu77108’s blog](http://zeronosu77108.hatenablog.com/entry/2019/02/02/163724)
+ * [YAPC::Tokyo 2019でWazuhの話をした \| \| pyama.fun](https://pyama.fun/archives/2553)
+ * [YAPC::Tokyo 2019に参加してきた & LTしてきた #yapcjapan - その手の平は尻もつかめるさ](https://moznion.hatenadiary.com/entry/2019/02/02/223143)
