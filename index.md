@@ -81,3 +81,4 @@
  * [YAPC Tokyo 2019に参加してきました。【学生旅費支援枠】 - イケイケエンジニアへの道](https://kousy.hatenablog.com/entry/2019/01/30/213758)
  * [YAPC::Tokyo 2019 に参加してきました - Konboi Note](https://blog.konboi.com/post/2019/01/28/153247/)
  * [YAPC::Tokyo 2019 に参加して発表しました - Cat of AZ](http://fisto.hatenablog.com/entry/2019/02/03/174401)
+ * [【Perl】YAPC::Tokyo 2019 にスタッフとして参加してきました - 溶けかけてるうさぎ - BLOG](https://meltingrabbit.com/blog/article/2019012601/)
