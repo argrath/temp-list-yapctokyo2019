@@ -76,3 +76,5 @@
  * [YAPC::Tokyo に参加しました！ - zeronosu77108’s blog](http://zeronosu77108.hatenablog.com/entry/2019/02/02/163724)
  * [YAPC::Tokyo 2019でWazuhの話をした \| \| pyama.fun](https://pyama.fun/archives/2553)
  * [YAPC::Tokyo 2019に参加してきた & LTしてきた #yapcjapan - その手の平は尻もつかめるさ](https://moznion.hatenadiary.com/entry/2019/02/02/223143)
+ * [LT解題 - YAPC::Tokyo 2019 - the code to rock](http://note103.hateblo.jp/entry/2019/02/03/130815)
+ * [YAPC::Tokyo 2019 にボランティアとして参加したらそこは巨大なオフ会だった - Palette、日記、眠っていた時間](http://silloi.hatenablog.com/entry/2019/02/03/150200)
