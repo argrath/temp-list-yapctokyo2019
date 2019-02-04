@@ -82,3 +82,7 @@
  * [YAPC::Tokyo 2019 に参加してきました - Konboi Note](https://blog.konboi.com/post/2019/01/28/153247/)
  * [YAPC::Tokyo 2019 に参加して発表しました - Cat of AZ](http://fisto.hatenablog.com/entry/2019/02/03/174401)
  * [【Perl】YAPC::Tokyo 2019 にスタッフとして参加してきました - 溶けかけてるうさぎ - BLOG](https://meltingrabbit.com/blog/article/2019012601/)
+ * [YAPC::Japan in Tokyo 参加録 - mumclouds’s diary](https://mumclouds.hatenablog.com/entry/2019/02/03/220218)
+ * [YAPC::Tokyo 2019 に参加した感想 - ランナーズ・ハイ](http://sota2502.hatenablog.com/entry/2019/01/28/024737)
+ * [YAPC::Tokyoに参加してきました！ - しゅにく日記](https://syuniku.hateblo.jp/entry/2019/02/02/140923)
+ * [YAPC::Tokyo 2019で静的解析の話をしてきました #yapcjapan - ぱいぱいにっき](https://mackee.hatenablog.com/entry/2019/02/04/080000)
