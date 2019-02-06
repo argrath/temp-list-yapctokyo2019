@@ -86,3 +86,6 @@
  * [YAPC::Tokyo 2019 に参加した感想 - ランナーズ・ハイ](http://sota2502.hatenablog.com/entry/2019/01/28/024737)
  * [YAPC::Tokyoに参加してきました！ - しゅにく日記](https://syuniku.hateblo.jp/entry/2019/02/02/140923)
  * [YAPC::Tokyo 2019で静的解析の話をしてきました #yapcjapan - ぱいぱいにっき](https://mackee.hatenablog.com/entry/2019/02/04/080000)
+ * [YAPC::Tokyo 2019でボランティアスタッフをしてきました #yapcjapan - ぱすたけ日記](https://blog.pastak.net/entry/2019/02/05/020737)
+ * [YAPC::Tokyoを終えて - YAPC::Japan 運営ブログ](http://blog.yapcjapan.org/entry/2019/02/05/160000)
+ * [おみやげで振り返るYAPC::Tokyo 2019（やぷしーとうきょう） \| かみおか日記](https://www.juku90.com/yapctokyo-2019/)
