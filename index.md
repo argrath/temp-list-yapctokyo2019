@@ -89,3 +89,5 @@
  * [YAPC::Tokyo 2019でボランティアスタッフをしてきました #yapcjapan - ぱすたけ日記](https://blog.pastak.net/entry/2019/02/05/020737)
  * [YAPC::Tokyoを終えて - YAPC::Japan 運営ブログ](http://blog.yapcjapan.org/entry/2019/02/05/160000)
  * [おみやげで振り返るYAPC::Tokyo 2019（やぷしーとうきょう） \| かみおか日記](https://www.juku90.com/yapctokyo-2019/)
+ * [YAPC::Tokyo 2019 に行ってきた #yapcjapan - jitsu102's blog](http://jitsu102.hatenablog.com/entry/2019/02/06/014004)
+ * [YAPC::Tokyo 2019の感想 - Perl6、レガシーPerl、綱渡りバッチ、CPANとエンジニアの成長物語 - Crieit](https://www.konosumi.net/entry/2019/01/28/065000)
