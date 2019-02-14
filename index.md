@@ -93,3 +93,4 @@
  * [YAPC::Tokyo 2019の感想 - Perl6、レガシーPerl、綱渡りバッチ、CPANとエンジニアの成長物語 - Crieit](https://www.konosumi.net/entry/2019/01/28/065000)
  * [YAPC::Tokyo に参加してきました - ss1318’s diary](https://ss1318.hatenablog.com/entry/2019/02/08/205809)
  * [「YAPC::Tokyo 2019」に行ってきました #yapcjapan - 早くなんとかしないと…](https://dosomething.hatenablog.com/entry/2019/02/11/123955)
+ * [YAPC::Tokyo 2019 でスタッフをやった5人に感想を聞いてみた - Mobile Factory Tech Blog](https://tech.mobilefactory.jp/entry/2019/02/14/100000)
