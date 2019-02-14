@@ -94,3 +94,4 @@
  * [YAPC::Tokyo に参加してきました - ss1318’s diary](https://ss1318.hatenablog.com/entry/2019/02/08/205809)
  * [「YAPC::Tokyo 2019」に行ってきました #yapcjapan - 早くなんとかしないと…](https://dosomething.hatenablog.com/entry/2019/02/11/123955)
  * [YAPC::Tokyo 2019 でスタッフをやった5人に感想を聞いてみた - Mobile Factory Tech Blog](https://tech.mobilefactory.jp/entry/2019/02/14/100000)
+ * [YAPC::TOKYO 2019を真面目に聞いてきました - スベリミナル効果](http://hijili.hatenablog.jp/entry/2019/01/27/133829)
