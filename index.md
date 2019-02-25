@@ -96,3 +96,4 @@
  * [YAPC::Tokyo 2019 でスタッフをやった5人に感想を聞いてみた - Mobile Factory Tech Blog](https://tech.mobilefactory.jp/entry/2019/02/14/100000)
  * [YAPC::TOKYO 2019を真面目に聞いてきました - スベリミナル効果](http://hijili.hatenablog.jp/entry/2019/01/27/133829)
  * [PerlMonger ではないけど YAPC::Tokyo 2019 に参加して報恩謝徳なコミュニティの雰囲気に包まれた #yapcjapan - blog.cheezenaan.net](https://blog.cheezenaan.net/yapc-2019/)
+ * [YAPC::Tokyo 2019で報恩謝徳の話をしてベストスピーカーを頂きました \| おそらくはそれさえも平凡な日々](http://www.songmu.jp/riji/entry/2019-02-25-yapc-tokyo.html)
