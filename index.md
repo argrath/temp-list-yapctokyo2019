@@ -98,3 +98,4 @@
  * [PerlMonger ではないけど YAPC::Tokyo 2019 に参加して報恩謝徳なコミュニティの雰囲気に包まれた #yapcjapan - blog.cheezenaan.net](https://blog.cheezenaan.net/yapc-2019/)
  * [YAPC::Tokyo 2019で報恩謝徳の話をしてベストスピーカーを頂きました \| おそらくはそれさえも平凡な日々](http://www.songmu.jp/riji/entry/2019-02-25-yapc-tokyo.html)
  * [YAPC::Japan 2019 をサクッとレポート！ – mixi developers – Medium](https://medium.com/mixi-developers/yapc-japan-2019-%E3%82%92%E3%82%B5%E3%82%AF%E3%83%83%E3%81%A8%E3%83%AC%E3%83%9D%E3%83%BC%E3%83%88-bde1cefa8343)
+ * [YAPC::Tokyo 2019 に参加しました - the code to rock](http://note103.hateblo.jp/entry/2019/03/18/084529)
